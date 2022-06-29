@@ -10,7 +10,10 @@
 
 
 
-![jhanks21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongahn&show_icons=true&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongahn&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeongahn=true&show_icons=true&theme=prussian" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeongahn&show_icons=true&locale=en&layout=compact&theme=prussian" align = "center"/>
+</p>
 
 
 
