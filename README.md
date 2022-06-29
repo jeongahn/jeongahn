@@ -13,7 +13,7 @@
                                 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeongahn&show_icons=true&theme=prussian" align = "left"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeongahn&show_icons=true&locale=en&layout=compact&theme=prussian" align = "left"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeongahn&show_icons=true&locale=en&layout=compact&theme=prussian" align = "right"/>
 </div>
 
 
