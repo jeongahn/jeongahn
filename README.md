@@ -10,13 +10,9 @@
 <!--
 **jeongahn/jeongahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-                                
-                                
-                                
-                                
-                                
-<br/><br/>
-                                
 ![jhanks21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongahn&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongahn&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=footer)
