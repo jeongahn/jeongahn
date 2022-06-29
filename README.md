@@ -7,8 +7,7 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /></a>&nbsp <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /></a>&nbsp <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /></a>&nbsp <img src="https://img.shields.io/badge/Mysql-FCC624?style=flat-square&logo=Mysql&logoColor=white" /></a>&nbsp <img
-<!--
-**jeongahn/jeongahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 ![jhanks21's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongahn&show_icons=true&theme=prussian)
