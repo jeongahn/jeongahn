@@ -1,7 +1,8 @@
 # Welcome 👋
 
+<p align="center">
 <img src=https://github.com/jeongahn/jeongahn/assets/54920329/7127f384-c77b-47a6-aaa9-5de4d4d7e983 width=650 height=220>
-
+</p>
 <h3 align="center">💪 Tech Stack 💪</h3>
 
 <p align="center"? Techs that I've used at least once </p>
