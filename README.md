@@ -1,5 +1,5 @@
 # Welcome 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=jhanks21&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=200&section=header&text=JeongAhn&fontSize=70)
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
