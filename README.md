@@ -29,12 +29,6 @@
  <br />
 <p/>
  
-<a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=jeongahn&show_icons=true&theme=prussian height = "180px" width = "50%"> &nbsp
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongahn&theme=prussian&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
-</a>
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inetty)](https://solved.ac/inetty)   
