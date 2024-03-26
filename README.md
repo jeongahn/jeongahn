@@ -28,7 +28,33 @@
  <img src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">&nbsp;
  <br />
 <p/>
- 
+
+<h3>🏢 Experience</h3>
+
+|소속|활동 기간|내용|
+|---|---|---|
+|FOSCAR(자율주행연구동아리)|2021.12 ~ | 자율주행경진대회 참가 및 스터디 진행 / 2022년 부회장 |
+|LG Aimers 2기|2023.01 ~ 2020.02| 교육생, 스마트공장제품품질상태분류 해커톤 참가 |
+|국민대학교 기계학습 연구실|2023.02 ~ 2020.07| 학부 연구생 |
+|디스페이스코리아|2023.06 ~ 2023.08| Yolo v3 model base KPI calculator 구현 및 RTMaps tool 성능 문서화 작업|
+|화이트햇 스쿨 2기|2024.03 ~ | 정보보호 이론 교육 및 프로젝트 진행 |
+
+
+<h3>📃 Projects</h3>
+
+| 기간 | 내용 |
+| --- | --- |
+| 2023.07 ~ 2023.12　|대학생들을 위한 동아리 관리 플랫폼 서비스'<a href="https://github.com/UuuuuuuDong/ourdongbang">우리동방(ourdongbang)</a>' 프론트엔드 담당 및 팀장 |
+
+<h3>🏆 Awards</h3>
+
+|수상 년월|발행 기관|내용|
+|---|---|---|
+|2022.10| 한국교통안전공단 | 2022 대학생 창작 자동차 경진대회 - 자율주행부문 장려상 |
+|2022.11| 경기산학융합원, 서울대학교 | 2022 Future Mobility Urban Challenge - 혁신상 |
+|2023.6| 국제전기자동차엑스포 | 국제 대학생 EV자율주행 경진대회 - Autonomous Driving Simulation Challenge 부문 우수상 |
+|2024.02| 미래자동차 혁신융학대학 | 2023 동계 혁신융합대학 가상환경 기반 자율주행 경진대회 장려상 |
+
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inetty)](https://solved.ac/inetty)   
