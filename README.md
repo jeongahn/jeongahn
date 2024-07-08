@@ -46,7 +46,7 @@
 | --- | --- |
 | 2023.07 ~ 2023.12　|대학생들을 위한 동아리 관리 플랫폼 서비스 '<a href="https://github.com/UuuuuuuDong/ourdongbang">우리동방(ourdongbang)</a>' 프론트엔드 담당 및 팀장 |
 | 2024.02 ~ 06　|AI에게 말하는 나의 하루일기 '<a href="https://github.com/kookmin-sw/capstone-2024-13">아니 근데 오늘 진짜</a>' 보안,프론트 담당 및 팀장 |
-| 2024.05 ~ |ASAP - 앱 취약점 분석 자동화 도구 - 개발 총괄(풀스택) |
+| 2024.05 ~ |ASAP - 앱 취약점 분석 자동화 도구 - 개발 총괄(스캐너 웹 풀스택, 취약점 스캐너 모듈 개발) |
 
 <h3>🏆 Awards</h3>
 
