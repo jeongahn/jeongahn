@@ -6,6 +6,7 @@
 <div align="center">
   <h4>Kookmin University, BCS (2019.03 ~ )</h4>   
   <h4>Self-Driving Research and Development Club, FOSCAR (2021.12 ~ )</h4>
+  <h4>Next Generation Security Leader Training Program, WHS(White Hat School) (2024.3 ~ )</h4>
 </div>
 <h3 align="center">💪 Tech Stack 💪</h3>
 
