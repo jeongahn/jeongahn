@@ -29,10 +29,6 @@
 
 |소속|활동 기간|내용|
 |---|---|---|
-|FOSCAR(자율주행연구동아리)|2021.12 ~ | 자율주행경진대회 참가 및 스터디 진행 / 2022년 부회장 |
-|LG Aimers 2기|2023.01 ~ 2023.02| 교육생 수료, 스마트공장제품품질상태분류 해커톤 참가 |
-|국민대학교 기계학습 연구실|2023.02 ~ 2023.07| 학부 연구생, CV model (CNN, VAE 기반 모델) 논문 스터디 및 서베이 작성 |
-|디스페이스코리아|2023.06 ~ 2023.08| Yolo v3 model base KPI calculator 구현 및 RTMaps tool 성능 문서화 작업|
 |화이트햇 스쿨(WHS) 2기|2024.03 ~ 2024.09.26| 교육생, 정보보호 이론 교육 및 프로젝트 진행 / TOP20 수료 |
 
 
@@ -40,7 +36,6 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2023.07 ~ 2023.12　|대학생들을 위한 동아리 관리 플랫폼 서비스 '<a href="https://github.com/UuuuuuuDong/ourdongbang">우리동방(ourdongbang)</a>' 프론트엔드 담당 및 팀장 |
 | 2024.02 ~ 2024.06　|AI에게 말하는 나의 하루일기 '<a href="https://github.com/kookmin-sw/capstone-2024-13">아니 근데 오늘 진짜</a>' 보안,프론트 담당 및 팀장 |
 | 2024.05 ~ 2024.09  |ASAP - 앱 취약점 분석 자동화 도구 - 개발 총괄(스캐너 웹 풀스택, 취약점 스캐너 모듈 개발), PM |
 | 2024.11 ~   |Fuzzmap - Offensive tooling project|
@@ -49,12 +44,7 @@
 
 |수상 년월|발행 기관|내용|
 |---|---|---|
-|2022.10| 한국교통안전공단 | 2022 대학생 창작 자동차 경진대회 - 자율주행부문 장려상 |
-|2022.11| 경기산학융합원, 서울대학교 | 2022 Future Mobility Urban Challenge - 혁신상 |
-|2023.6| 국제전기자동차엑스포 | 국제 대학생 EV자율주행 경진대회 - Autonomous Driving Simulation Challenge 부문 우수상 |
-|2024.02| 미래자동차 혁신융학대학 | 2023 동계 혁신융합대학 가상환경 기반 자율주행 경진대회 - 장려상 |
 |2024.09| 과학기술정보통신부 | WhiteHat School TOP 20 인증서 |
+|2024.12| 한국교통안전공단 | "2024년 TS 보안 허점을 찾아라!" 대학부 장려상 |
 
-<br />
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=inetty)](https://solved.ac/inetty)   
+<br /> 
